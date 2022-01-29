@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Website: https://randywang1234.github.io/olympic2020_datavisualization/
 ## Available Scripts
 
 In the project directory, you can run:
