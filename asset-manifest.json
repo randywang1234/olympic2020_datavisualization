@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/olympic2020_datavisualization/static/css/main.c5f3c336.css",
+    "main.js": "/olympic2020_datavisualization/static/js/main.bd5cc2d0.js",
+    "static/js/787.edd59a96.chunk.js": "/olympic2020_datavisualization/static/js/787.edd59a96.chunk.js",
+    "index.html": "/olympic2020_datavisualization/index.html",
+    "main.c5f3c336.css.map": "/olympic2020_datavisualization/static/css/main.c5f3c336.css.map",
+    "main.bd5cc2d0.js.map": "/olympic2020_datavisualization/static/js/main.bd5cc2d0.js.map",
+    "787.edd59a96.chunk.js.map": "/olympic2020_datavisualization/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f3c336.css",
+    "static/js/main.bd5cc2d0.js"
+  ]
+}
