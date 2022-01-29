@@ -1,0 +1,35 @@
+
+.graphs{
+    position: absolute;
+    top: 0;
+    left: 500px;
+}
+.btn-all{
+    position: absolute;
+    top: 70px;
+    right: 160px;
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.btn-country{
+    position: absolute;
+    top: 70px;
+    right: 50px;
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.btn-vertical{
+    position: absolute;
+    top: 70px;
+    right: 270px;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    border-radius: 5px;
+}

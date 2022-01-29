@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+.App{
+    background-color: #251E3F;
+    width:1920px;
+    height:1080px;
+    position: relative;
+}
+.title{
+    width: 348px;
+    height: 324px;
+    font-size: 72px;
+    line-height: 85px;
+    color: #FFFFFF;
+    padding: 30px 0px 0px 30px;
+}
+.info{
+    width: 293px;
+    height: 306px;
+    padding:42px 0px 0px 22px
+}
+.info span:first-child{
+    font-size: 36px;
+    color: #008FC5;
+}
+.info span{
+    display:block;
+    color:white;
+    font-size: 24px;
+    line-height: 29px;
+    padding: 10px
+}
+

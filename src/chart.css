@@ -1,0 +1,8 @@
+.linechart{
+    
+    position: absolute;
+    left:25px;
+    bottom:10px;
+    width:550px;
+    height:300px;
+}
