@@ -24,7 +24,7 @@ const Graph2=({setData})=>{
 
     useEffect(()=>{
         Promise.all([
-            d3.csv("/nodes.csv"), //data
+            d3.csv("https://gist.githubusercontent.com/randywang1234/2b07d4da231300f2c892115d793620a2/raw/790524acb7f9a006ab48484ec903773818a32dc8/nodes.csv"), //data
         ])
             .then(([nodes]) => { //dataset is the name we will give the data (you can choose) to access it later
                     //all code that uses the data needs to be inside here!!

@@ -28,7 +28,7 @@ const Grpah=({setData})=>{
         ])
             .then(([nodes,links]) => {
 
-                console.log(nodes)
+                // console.log(nodes)
                 // console.log(links)
                 
 
