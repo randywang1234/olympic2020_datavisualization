@@ -23,8 +23,8 @@ const Grpah=({setData})=>{
     
 
     Promise.all([
-            d3.csv("src/nodes.csv"), //nodes
-             d3.csv("src/links.csv")//edges
+            d3.csv("https://gist.githubusercontent.com/randywang1234/2b07d4da231300f2c892115d793620a2/raw/790524acb7f9a006ab48484ec903773818a32dc8/nodes.csv"), //nodes
+             d3.csv("https://gist.githubusercontent.com/randywang1234/9a0b77a2bce7d5b6abf4f2301a4ae91d/raw/7df624011b3d22ca04d0cc3c867507edbb9cea77/links.csv")//edges
         ])
             .then(([nodes,links]) => {
 
