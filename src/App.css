@@ -34,3 +34,61 @@
     padding: 10px
 }
 
+
+.btn-info{
+    position: absolute;
+    bottom:20px;
+    right:20px;
+    width:50px;
+    height:50px;
+    padding:0px 10px;
+    border-radius: 50%;
+    border-color: white;
+    box-shadow:0px 1px 1px white
+}
+
+.modal{
+    position: absolute;
+    bottom:70px;
+    right:70px;
+    width:500px;
+    height:700px;
+    background-color: white;
+    border-radius: 10px;
+}
+.modal p{
+    margin:10px;
+    font-size: 18px;
+    color:#5C5050;
+
+}
+.modal a{
+    display: block;
+    margin: 0px 10px;
+    padding:5px;
+    text-decoration: none;
+    font-family: sans-serif;
+        font-size:12px;
+
+
+}
+.modal span{
+    display: inline-block;
+    margin: 0px 10px;
+    padding:5px;
+    color:gray;
+    font-size:12px;
+    font-family: sans-serif;
+
+}
+
+.self{
+    position: absolute;
+    top:10px;
+    right:10px;
+    color:white;
+
+}
+.self a{
+    color:white;
+}
