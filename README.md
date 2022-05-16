@@ -3,6 +3,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Website: https://randywang1234.github.io/olympic2020_datavisualization/
+
+# Introduction
+
+2021 Olympics Athlethes Awards & Country. Data was collected from Kaggle 
+
+(1)2021 Olympic in Tokyo
+
+(2)120 years of Olympic history data
+
+(3)Olympic sports and medals
+
+The data in this project only show the 2021 Olympic awards but shows the number of medals in each country each year. There is another perspective on this visualization website, called Sports perspective. You can have an overview of the winner of each sport, it makes the data clear for users to explore different categories. In the end, you can be based on the filter function (at the right-top corner) to look at which country you are interested.
+
+
+![image](https://user-images.githubusercontent.com/49906636/168672460-3204c770-4e31-4750-865a-d73030cb52da.png)
+
+
+### Sport perspective
+![image](https://user-images.githubusercontent.com/49906636/168673937-ae857fb9-2276-4d77-8762-78bd0da04e9b.png)
+
+### Filter system(ex. Germany)
+![image](https://user-images.githubusercontent.com/49906636/168674034-6cd51518-4d08-4215-b658-fee7182d5d78.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
